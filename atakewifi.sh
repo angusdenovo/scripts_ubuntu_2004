@@ -3,7 +3,7 @@
 echo Uso:
 echo atakewifi.sh interfaz diccionario
 echo ejemplo
-echo "$atakewifi.sh wlan0 palabras.txt
+echo "$atakewifi.sh wlan0 palabras.txt"
 IFACE=$1
 DICCIONARIO=$2
 
